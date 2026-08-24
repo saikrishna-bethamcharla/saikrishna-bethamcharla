@@ -73,7 +73,7 @@ Professional Video Editing · Motion Graphics · Cinematic Storytelling · Visua
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/saikrishna-bethamcharla](https://www.linkedin.com/in/saikrishna-bethamcharla)
+- Instagram: [@saikrishna_bethamcharla](https://www.instagram.com/saikrishna_bethamcharla?igsi=MWU3a2RtdGVwOGhveA%3D%3D&utm_source=qr)
 - GitHub: [github.com/saikrishna-bethamcharla](https://github.com/saikrishna-bethamcharla)
 
 ---
