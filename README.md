@@ -94,14 +94,6 @@ I enjoy the space where **technology becomes a creative tool**.
 **Creative**  
 `Video Editing` `Motion Graphics` `Post-Production` `Cinematic Storytelling` `Visual Development`
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![Sai Krishna's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saikrishna-bethamcharla&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/saikrishna-bethamcharla)
-
-</div>
-
 ## Selected Work
 
 ### 🎥 AI Video & Visual Creation
