@@ -1,81 +1,133 @@
-# Hi, I'm Sai Krishna Bethamcharla 👋
+<div align="center">
 
-### AI & Software Developer | AI Video Creator | Professional Video Editor
+<img src="./assets/ai-header.svg" alt="AI x Code x Creative" width="100%" />
 
-I build **AI-powered software, modern web experiences, and visual content** by combining technology with creative storytelling.
+# Sai Krishna Bethamcharla
 
-Currently working at **ZAI Labs**, where my work spans **AI, software development, web development, generative AI, AI video creation, and professional video production**.
+### AI & Software Developer · AI Video Creator · Professional Video Editor
 
-## 🚀 What I Do
+**Building intelligent software and cinematic visual experiences with AI.**
+
+<a href="https://www.instagram.com/saikrishna_bethamcharla?igsi=MWU3a2RtdGVwOGhveA%3D%3D&utm_source=qr">Instagram</a> · <a href="https://github.com/saikrishna-bethamcharla">GitHub</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a developer and creative technologist working at **ZAI Labs**, combining **software engineering, Generative AI and visual production** to turn ideas into working digital products and polished visual content.
+
+My current work sits across two worlds:
+
+- **Build:** AI-powered software, websites, web applications, APIs and digital products.
+- **Create:** AI-generated video, cinematic visual development, professional editing, motion graphics and post-production.
+
+I enjoy the space where **technology becomes a creative tool**.
+
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI & Generative AI
-- Generative AI applications and workflows
-- AI integrations and automation
+
+- Generative AI applications and integrations
 - AI-assisted software development
 - AI image and video generation
-- Prompt engineering and creative AI workflows
+- Prompt engineering
+- AI automation workflows
+- Creative AI pipelines
 
-### 💻 Software & Web Development
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software & Web
+
 - Python
 - JavaScript / Node.js
 - React
 - Flask
 - REST APIs
 - Full-stack web applications
-- Software tools and digital products
+- Digital products and software tools
 
-### 🎬 AI Video & Creative Production
-- AI-generated video creation
-- AI-assisted filmmaking and visual storytelling
-- Cinematic shot design and prompt development
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 AI Video & Film
+
+- AI video creation
+- Cinematic shot development
+- AI-assisted filmmaking
 - Character and visual consistency
-- Commercial and promotional video production
+- Commercial & promotional content
+- Visual storytelling
+
+</td>
+<td width="50%" valign="top">
+
+### ✂️ Post-Production
+
 - Professional video editing
-- Motion graphics and post-production
+- Motion graphics
+- Visual effects workflows
+- Sound and pacing
+- Color and visual continuity
+- Final delivery for digital platforms
 
-### 🎨 Creative Technology
-- AI-powered creative workflows
-- Visual development and concept design
-- Digital experiences
-- Branding and creative content
-- Combining software, AI, and visual storytelling
+</td>
+</tr>
+</table>
 
-## 🛠️ Selected Work
+## 🧠 Tech & Creative Stack
 
-### 🎬 AI Video & Visual Projects
-Developing AI-driven cinematic content, commercials, character-based videos, promotional visuals, and creative storytelling workflows using modern generative AI tools.
+**Development**  
+`Python` `JavaScript` `Node.js` `React` `Flask` `HTML` `CSS` `REST APIs`
 
-### 🤖 AI-Powered Software
-Building practical AI applications and tools that combine software engineering with intelligent automation and generative AI.
+**AI**  
+`Generative AI` `AI Video` `AI Image Generation` `Prompt Engineering` `AI Automation`
 
-### 🌐 Web & Software Projects
-Developing responsive websites, web applications, backend services, APIs, and digital products with modern development technologies.
+**Creative**  
+`Video Editing` `Motion Graphics` `Post-Production` `Cinematic Storytelling` `Visual Development`
 
-## 🎯 Current Focus
+## Selected Work
 
-- Building AI-powered software products
-- Developing modern websites and web applications
-- Creating AI-generated videos and cinematic content
-- Professional video editing and post-production
-- Exploring new Generative AI tools and workflows
-- Combining technology with creative storytelling
+### 🎥 AI Video & Visual Creation
 
-## 🧰 Technologies & Tools
+Creating AI-driven cinematic content, commercials, character-based videos, promotional visuals and storytelling workflows. The process spans concept development, prompting, shot design, generation, continuity and professional post-production.
 
-**Languages & Development**  
-Python · JavaScript · Node.js · React · Flask · HTML · CSS · REST APIs
+### 🧩 AI-Powered Software
 
-**AI & Creative AI**  
-Generative AI · AI Video Generation · AI Image Generation · Prompt Engineering · AI Automation
+Building practical applications and tools that combine software engineering with intelligent automation and Generative AI.
 
-**Creative Production**  
-Professional Video Editing · Motion Graphics · Cinematic Storytelling · Visual Development · Post-Production
+### 🌐 Web & Digital Products
 
-## 📫 Connect With Me
+Developing modern websites, web applications, backend services, APIs and digital experiences with a focus on usability and clean implementation.
 
-- Instagram: [@saikrishna_bethamcharla](https://www.instagram.com/saikrishna_bethamcharla?igsi=MWU3a2RtdGVwOGhveA%3D%3D&utm_source=qr)
-- GitHub: [github.com/saikrishna-bethamcharla](https://github.com/saikrishna-bethamcharla)
+## Current Focus
 
----
+```text
+AI DEVELOPMENT       ████████████████████  Generative AI · AI Applications
+WEB & SOFTWARE       ██████████████████░░  Websites · Apps · APIs
+AI VIDEO             ███████████████████░  Generation · Cinematic Workflows
+POST-PRODUCTION      █████████████████░░░  Editing · Motion · Finishing
+CREATIVE TECHNOLOGY  ████████████████████  AI × Visual Storytelling
+```
 
-⭐ Building with AI. Creating with purpose. Shipping ideas into reality.
+## Philosophy
+
+> **Build the technology. Create the experience.**
+
+I'm interested in practical AI, thoughtful software and visual storytelling that feels intentional rather than automated for the sake of automation.
+
+<div align="center">
+
+### Let's build something interesting.
+
+<a href="https://github.com/saikrishna-bethamcharla">Explore my work on GitHub →</a>
+
+</div>
