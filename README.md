@@ -127,8 +127,8 @@ I am a creative technologist and developer working at **ZAI Labs**, focused on *
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikrishna-bethamcharla&show_icons=true&theme=radical&hide_border=true&bg_color=070B14&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-bethamcharla&layout=compact&hide_border=true&bg_color=070B14&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saikrishna-bethamcharla&show_icons=true&include_all_commits=true&hide_rank=true&theme=radical&hide_border=true&bg_color=070B14&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-bethamcharla&layout=compact&hide=html,php&hide_border=true&bg_color=070B14&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
