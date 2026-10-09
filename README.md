@@ -50,6 +50,7 @@ I am a creative technologist and developer working at **ZAI Labs**, focused on *
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-A855F7?style=for-the-badge&logo=sparkles&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
 ![Runway Gen-3](https://img.shields.io/badge/Runway_Gen--3-111827?style=for-the-badge&logo=video&logoColor=white)
+<img src="./assets/higgsfield-badge.svg" alt="Higgsfield AI" height="28" />
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-0F172A?style=for-the-badge&logo=diagram-project&logoColor=38BDF8)
 
 ### ✂️ Post-Production, Video Editing & Creative Suite
@@ -106,7 +107,7 @@ I am a creative technologist and developer working at **ZAI Labs**, focused on *
       <ul>
         <li><b>Node Workflows:</b> Custom node pipelines with ComfyUI for image and video synthesis.</li>
         <li><b>Prompt Architecture:</b> Multi-modal prompt engineering for fine aesthetic control.</li>
-        <li><b>Generative Video:</b> Next-generation AI video generation with Runway and Stable Diffusion.</li>
+        <li><b>Generative Video:</b> Next-generation AI video generation with Runway, Higgsfield AI, and Stable Diffusion.</li>
         <li><b>Workflow Automation:</b> Streamlining creative asset generation and conversion.</li>
       </ul>
     </td>
@@ -128,7 +129,7 @@ I am a creative technologist and developer working at **ZAI Labs**, focused on *
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saikrishna-bethamcharla&show_icons=true&include_all_commits=true&hide_rank=true&theme=radical&hide_border=true&bg_color=070B14&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-bethamcharla&layout=compact&hide=html,php&hide_border=true&bg_color=070B14&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-bethamcharla&layout=compact&hide_html,php&hide_border=true&bg_color=070B14&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top Languages" />
 </div>
 
 <br/>
@@ -147,7 +148,7 @@ I am a creative technologist and developer working at **ZAI Labs**, focused on *
 ## 🔭 Current Focus
 
 ```text
-CREATIVE AI          ████████████████████  ComfyUI · Stable Diffusion · Video Gen
+CREATIVE AI          ████████████████████  ComfyUI · Higgsfield · Stable Diffusion
 AI VIDEO CREATION    ███████████████████░  Cinematic Workflows · Shot Design
 POST-PRODUCTION      ██████████████████░░  Premiere Pro · DaVinci · After Effects
 SCRIPTING & WEB      ████████████████░░░░  Python · JavaScript · HTML5 · CSS3
