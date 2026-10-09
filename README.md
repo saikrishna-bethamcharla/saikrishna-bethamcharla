@@ -131,10 +131,6 @@ I am a creative technologist and developer working at **ZAI Labs**, focused on *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-bethamcharla&layout=compact&hide=html,php&hide_border=true&bg_color=070B14&title_color=38BDF8&text_color=94A3B8" height="175" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna-bethamcharla&theme=radical&hide_border=true&background=070B14&stroke=38BDF8&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 <div align="center">
