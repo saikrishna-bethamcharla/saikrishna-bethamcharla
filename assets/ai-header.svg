@@ -1,42 +1,110 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070B14"/>
-      <stop offset="55%" stop-color="#0B1222"/>
-      <stop offset="100%" stop-color="#111827"/>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="45%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#070C1B"/>
     </linearGradient>
-    <radialGradient id="glow" cx="75%" cy="45%" r="55%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.28"/>
-      <stop offset="45%" stop-color="#8B5CF6" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+
+    <!-- Radial Glows -->
+    <radialGradient id="glowCyan" cx="80%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.30"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#050811" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.75"/>
-      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+
+    <radialGradient id="glowViolet" cx="15%" cy="85%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#050811" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Accent Line Gradients -->
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
     </linearGradient>
-    <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+
+    <linearGradient id="badgeGrad" x1="0" y1="0" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
-  <g opacity="0.16" stroke="#94A3B8" stroke-width="1">
-    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
-    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="340" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#glowCyan)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#glowViolet)"/>
+  <rect width="1200" height="340" rx="16" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Cybernetic Grid Overlay -->
+  <g opacity="0.12" stroke="#38BDF8" stroke-width="1">
+    <path d="M0 68H1200M0 136H1200M0 204H1200M0 272H1200"/>
+    <path d="M120 0V340M240 0V340M360 0V340M480 0V340M600 0V340M720 0V340M840 0V340M960 0V340M1080 0V340"/>
   </g>
-  <g fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.55">
-    <circle cx="945" cy="142" r="70"/>
-    <circle cx="945" cy="142" r="42"/>
-    <path d="M875 142H1015M945 72V212M896 93L994 191M994 93L896 191"/>
+
+  <!-- Right Geometric Radar / HUD Element -->
+  <g opacity="0.45" transform="translate(960, 165)">
+    <!-- Concentric Rings -->
+    <circle cx="0" cy="0" r="105" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="8 6"/>
+    <circle cx="0" cy="0" r="75" stroke="#8B5CF6" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="45" stroke="#38BDF8" stroke-width="1" stroke-dasharray="4 4"/>
+    <circle cx="0" cy="0" r="18" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="0" cy="0" r="4" fill="#38BDF8"/>
+    <!-- Crosshairs & Orbit Markers -->
+    <path d="M-125 0H125M0 -125V125" stroke="#38BDF8" stroke-width="1" opacity="0.5"/>
+    <circle cx="53" cy="-53" r="4" fill="#8B5CF6"/>
+    <circle cx="-53" cy="53" r="3" fill="#38BDF8"/>
+    <circle cx="75" cy="0" r="3" fill="#10B981"/>
+    <!-- Degree Ticks -->
+    <line x1="0" y1="-105" x2="0" y2="-95" stroke="#38BDF8" stroke-width="2"/>
+    <line x1="105" y1="0" x2="95" y2="0" stroke="#38BDF8" stroke-width="2"/>
+    <line x1="0" y1="105" x2="0" y2="95" stroke="#38BDF8" stroke-width="2"/>
+    <line x1="-105" y1="0" x2="-95" y2="0" stroke="#38BDF8" stroke-width="2"/>
   </g>
-  <g fill="#A78BFA" opacity="0.8">
-    <circle cx="945" cy="72" r="4"/><circle cx="1015" cy="142" r="4"/><circle cx="945" cy="212" r="4"/><circle cx="875" cy="142" r="4"/>
+
+  <!-- Top Pill / Telemetry Status -->
+  <g transform="translate(68, 48)">
+    <rect width="320" height="28" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <circle cx="16" cy="14" r="4" fill="#10B981"/>
+    <text x="28" y="18" fill="#38BDF8" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" letter-spacing="1.5">CREATIVE &amp; TECHNICAL LEAD @ ZAI LABS</text>
   </g>
-  <g opacity="0.45" stroke="url(#line)" stroke-width="2">
-    <path d="M720 250C800 220 820 270 900 240S1030 200 1200 230"/>
-    <path d="M650 275C760 240 850 300 950 265S1080 240 1200 260"/>
+
+  <!-- Main Title -->
+  <text x="66" y="128" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
+    SAI KRISHNA BETHAMCHARLA
+  </text>
+
+  <!-- Subtitle Tagline -->
+  <text x="68" y="168" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" letter-spacing="0.2">
+    Pioneering Generative AI Media • Cinema &amp; VFX Pipelines • Cloud &amp; DevOps Engineering
+  </text>
+
+  <!-- Gradient Divider -->
+  <rect x="68" y="196" width="540" height="2.5" rx="1" fill="url(#lineGrad)"/>
+
+  <!-- Tech Badges Footer in Header -->
+  <g transform="translate(68, 224)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="168" height="34" rx="8" fill="url(#badgeGrad)" stroke="#38BDF8" stroke-opacity="0.3"/>
+    <text x="14" y="21" fill="#E2E8F0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600">✦ GENERATIVE AI</text>
+
+    <!-- Pill 2 -->
+    <rect x="180" y="0" width="176" height="34" rx="8" fill="url(#badgeGrad)" stroke="#8B5CF6" stroke-opacity="0.3"/>
+    <text x="194" y="21" fill="#E2E8F0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600">🎬 CINEMA &amp; VFX</text>
+
+    <!-- Pill 3 -->
+    <rect x="368" y="0" width="186" height="34" rx="8" fill="url(#badgeGrad)" stroke="#10B981" stroke-opacity="0.3"/>
+    <text x="382" y="21" fill="#E2E8F0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600">⚡ CLOUD &amp; DEVOPS</text>
+
+    <!-- Pill 4 -->
+    <rect x="566" y="0" width="176" height="34" rx="8" fill="url(#badgeGrad)" stroke="#EC4899" stroke-opacity="0.3"/>
+    <text x="580" y="21" fill="#E2E8F0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600">🛠️ CREATIVE TOOLS</text>
   </g>
-  <text x="70" y="125" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">AI × CODE × CREATIVE</text>
-  <text x="72" y="166" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">Building intelligent software and cinematic visual experiences</text>
-  <rect x="72" y="202" width="390" height="2" fill="url(#line)"/>
-  <text x="72" y="238" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">GENERATIVE AI  •  SOFTWARE  •  VIDEO</text>
+
+  <!-- Bottom Coordinate / Terminal Stamp -->
+  <text x="68" y="302" fill="#475569" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" letter-spacing="1">
+    SYS_COORD: 17.3850° N, 78.4867° E // ARCHITECTURE: MULTI-MODAL PIPELINES // REPOS: ACTIVE
+  </text>
 </svg>
