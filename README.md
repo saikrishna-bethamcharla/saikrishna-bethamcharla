@@ -4,7 +4,7 @@
 <img src="./assets/ai-header.svg" alt="Sai Krishna Bethamcharla - Creative & Technical Lead @ ZAI Labs" width="100%" />
 
 <!-- Dynamic Typing SVG Headline -->
-<a href="https://github.com/saikrishna-bethamcharla">
+<a href="https://saikrishna-bethamcharla.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Creative+Technologist+%26+Lead+%40+ZAI+Labs+%E2%9A%A1;Architecting+Cinematic+AI+Filmmaking+Pipelines+%F0%9F%8E%AC;Building+MotionForge+%26+Epic+Hertz+Studio+%F0%9F%9A%80;Cloud-Native+Infrastructure+%2B+AI+Auto-Healing+K8s+%E2%98%81%EF%B8%8F" alt="Typing Headline" />
 </a>
 
@@ -15,6 +15,9 @@
 
 <!-- Badges Row -->
 <p align="center">
+  <a href="https://saikrishna-bethamcharla.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="https://epic-hertz-studio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Studio-Epic_Hertz-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Studio" />
   </a>
@@ -222,15 +225,19 @@ Ready to collaborate on cinematic AI filmmaking, generative media pipelines, or 
 
 <br/>
 
+<a href="https://saikrishna-bethamcharla.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Interactive_3D-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Live Portfolio" />
+</a>
+&nbsp;
 <a href="https://github.com/saikrishna-bethamcharla">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://epic-hertz-studio.vercel.app/">
+<a href="https://epic-hertz-studio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Studio-Epic_Hertz-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Studio" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/saikrishna_bethamcharla?igsi=MWU3a2RtdGVwOGhveA%3D%3D&utm_source=qr">
+<a href="https://www.instagram.com/saikrishna_bethamcharla?igsi=MWU3a2RtdGVwOGhveA%3D%3D&utm_source=qr" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
