@@ -13,7 +13,7 @@
   <p>I lead creative and technical work at ZAI Labs. I build generative AI video pipelines, tools for video editors, and the sites that show them off.</p>
   <img src="./assets/latest.svg" alt="Recently pushed repositories, refreshed automatically" width="100%">
 <!-- LATEST:START -->
-<p>Open: <a href="https://github.com/saikrishna-bethamcharla/Epic-Hertz-Studio">Epic-Hertz-Studio</a> | <a href="https://github.com/saikrishna-bethamcharla/penstroke">penstroke</a> | <a href="https://github.com/saikrishna-bethamcharla/vasudhapharma-green">vasudhapharma-green</a> | <a href="https://github.com/saikrishna-bethamcharla/portfolio">portfolio</a> | <a href="https://github.com/saikrishna-bethamcharla/Portfolio-netflix-style">Portfolio-netflix-style</a></p>
+<p>Open: <a href="https://github.com/saikrishna-bethamcharla/Epic-Hertz-Studio">Epic-Hertz-Studio</a> | <a href="https://github.com/saikrishna-bethamcharla/vasudhapharma-green">vasudhapharma-green</a> | <a href="https://github.com/saikrishna-bethamcharla/penstroke">penstroke</a> | <a href="https://github.com/saikrishna-bethamcharla/portfolio">portfolio</a> | <a href="https://github.com/saikrishna-bethamcharla/Portfolio-netflix-style">Portfolio-netflix-style</a></p>
 <!-- LATEST:END -->
 </td>
 </tr>
